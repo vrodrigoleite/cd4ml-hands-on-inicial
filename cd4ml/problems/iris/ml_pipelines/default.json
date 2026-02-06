@@ -1,5 +1,5 @@
 {
-    "default_algorithm": "random_forest_classifier",
+    "default_algorithm": "lasso",
     "training_random_seed": 4548276,
     "identifier_field": "row_id",
     "target_field": "species",
